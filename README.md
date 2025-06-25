@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development and Data Analysis  
 - 🌱 I’m currently learning MERN Stack, JavaScript frameworks, and Python for data analysis  
 - 💞️ I’m looking to collaborate on web apps, dashboards, and data-driven projects  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyapawar1025) | priyapawar1025@gmail.com  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyapawar1025) | pawarpriya813@gmail.com
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love visualizing data in creative ways and building responsive, user-friendly web interfaces!
 
